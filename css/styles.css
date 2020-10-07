@@ -1,0 +1,28 @@
+body {
+  background-color: #cbeaed;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  border-color: #056676;
+}
+
+h1 {
+  color: #00b7c2;
+  font-family: "Papyrus";
+  font-size: 40px;
+}
+
+.heading2 {
+  color: #0f4c75;
+  font-family: serif;
+}
+
+h1:hover {
+  color: #e94560;
+  font-family: "Papyrus";
+  font-size: 40px;
+}
